@@ -37,6 +37,4 @@ Bu proje, bir masaüstü simülasyonu oluşturmak için Python kullanarak bir di
 
 Katkı yapmak isterseniz, lütfen yeni bir dal oluşturun ve değişikliklerinizle birlikte ana dalı birleştirme talebi (pull request) gönderin. Değişikliklerinizin kabul edilmesi için uygun testlerin geçmesine ve kodun proje standartlarına uygun olmasına dikkat edin.
 
-## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
